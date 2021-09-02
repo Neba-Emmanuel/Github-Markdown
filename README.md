@@ -1,5 +1,3 @@
-![Screenshot from 2021-09-02 12-29-03](https://user-images.githubusercontent.com/37219226/131839125-7ff70ac3-4ed7-4f46-9fda-c45ad46fcde9.png)
-![Screenshot from 2021-09-02 12-29-03](https://user-images.githubusercontent.com/37219226/131839124-d65113b1-42f5-4373-bf7f-a1b2857aa95c.png)
 # Github-Markdown
 
 ## Table of Content
