@@ -5,9 +5,10 @@
 - [Introduction](#introduction)
 - [Header](#Header)
 - [List](#List)
+  - [Unordered](#unordered)
+  - [Ordered](#Ordered) 
 - [Images](#Image)
 - [Emphasis](#Emphasis)
-- [Ordered](#Ordered)
 - [Blockqoutes](#Blockqoutes)
 - [Backslash-Escapes](#Backslash-Escapes)
 
@@ -34,3 +35,54 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 ## This is an <h2> tag
 ###### This is an <h6> tag
 ```
+### Lists
+
+#### Unordered
+
+```Text
+* Item 1
+* Item 2
+  *Item 2a
+  *Item 2b
+```
+#### Ordered
+
+```Text
+1. Item 1
+2. Item 2
+3. Item 3
+  * Item 3a
+  * Item 3b
+```
+
+### Images
+
+```Text
+![Github Logo](/images/logo.png)Format: ![Alt Text](url)
+````
+
+### Emphasis
+
+```Text
+*This text will be italic*
+_This will also be italic_
+**This text will be bold**
+__This will also be bold__
+*You **can** combine them*
+```
+
+### Links
+
+```Text
+http://github.com - automatic![GitHub](http://github.com)
+```
+
+### Blockqoutes
+
+```Text
+As Grace Hopper said:
+
+> I’ve always been more interested
+> in the future than in the past.
+```
+![Screenshot from 2021-09-02 11-29-04](https://user-images.githubusercontent.com/37219226/131828485-0ee8cf23-b713-44ac-a987-14135da81d3e.png)
