@@ -99,10 +99,77 @@ would otherwise have special meaning in Markdown’s formatting syntax.
 Markdown provides backslash escapes for
 the following characters:
 
--------------------------------------
-|[\ backslash]  |  [_ underscore] |
-|\- minus sign (hyphen)  |  . dot |
-|{} curly braces  |  * asterisk |
-|[] square brackets  |  () parentheses |
-|! exclamation mark  |  \` backtick\ |
-|\# hash mark  |  + plus sign |
+| \ backslash  |  _ underscore |
+| \- minus sign (hyphen)  |  . dot |
+| {} curly braces  |  * asterisk |
+| [] square brackets  |  () parentheses |
+| ! exclamation mark  |  \` backtick\ |
+| \# hash mark  |  + plus sign |
+
+## Github Flavored Markdown
+
+### Introduction
+
+GitHub.com uses its own version of the Markdown syntax, GFM, that provides an additional set of useful
+features, many of which make it easier to work with content on GitHub.com.
+
+### Username@mentions
+
+Typing an @ symbol, followed bya username, will notify that personto come and view the comment.
+This is called an “@mention”,because you’re mentioning theindividual. You can also @mention
+teams within an organization.
+
+### Fenced Code Blocks
+
+Markdown coverts text with four leading spaces into a code block; with GFM you can
+wrap your code with```Text \`\`\`\ ```to create a code block without the leading spaces. Add an
+optional language identifier and your code will get syntax highlighting.
+
+```javascript
+function test() {
+console.log("look ma’, no spaces");
+}
+```
+
+
+### Issue References
+
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+```Text
+github-flavored-markdown#1
+defunkt/github-flavored-markdown#1
+```
+
+### Task List
+
+```Text
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+```
+
+
+
+### Tables
+
+You can create tables by assembling
+a list of words and dividing them
+with hyphens ```Text - ``` (for the first row),
+and then separating each column
+with a pipe ```Text | ```:
+
+
+
+### Emoji
+
+To see a list of every image that is supported, check out
+
+<a href="https://github.com/ikatyang/emoji-cheat-sheet" alt="emoji-cheat-sheet">Emoji Cheat Sheet</a>  @ikatyang
+
+```Text
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
+```
