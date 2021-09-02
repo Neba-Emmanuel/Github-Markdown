@@ -122,13 +122,15 @@ teams within an organization.
 ### Fenced Code Blocks
 
 Markdown coverts text with four leading spaces into a code block; with GFM you can
-wrap your code with```Text ``\`\ ```to create a code block without the leading spaces. Add an
+wrap your code with```Text \``\` ```to create a code block without the leading spaces. Add an
 optional language identifier and your code will get syntax highlighting.
 
-```javascript
+```Text
+\```javascript
 function test() {
 console.log("look ma’, no spaces");
 }
+\```
 ```
 
 
