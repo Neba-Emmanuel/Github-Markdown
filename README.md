@@ -87,3 +87,21 @@ As Grace Hopper said:
 ``` 
 ![Screenshot from 2021-09-02 11-29-04](https://user-images.githubusercontent.com/37219226/131828485-0ee8cf23-b713-44ac-a987-14135da81d3e.png)
 
+### Backslash Escape
+
+Markdown allows you to use backslash escapes to generate literal characters which
+would otherwise have special meaning in Markdown’s formatting syntax.
+
+```Text
+\*literal asterisks\*
+```
+
+Markdown provides backslash escapes for
+the following characters:
+
+\ backslash  |  _ underscore
+- minus sign (hyphen)  |  . dot
+{} curly braces  |  * asterisk
+[] square brackets  |  () parentheses
+! exclamation mark  |  ` backtick
+# hash mark  |  + plus sign
