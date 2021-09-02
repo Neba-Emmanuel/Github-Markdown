@@ -99,12 +99,18 @@ would otherwise have special meaning in Markdown’s formatting syntax.
 Markdown provides backslash escapes for
 the following characters:
 
-| \ backslash  |  _ underscore |
-| \- minus sign (hyphen)  |  . dot |
-| {} curly braces  |  * asterisk |
-| [] square brackets  |  () parentheses |
-| ! exclamation mark  |  \` backtick\ |
-| \# hash mark  |  + plus sign |
+ \ backslash  
+ _ underscore
+\- minus sign (hyphen)
+. dot
+{} curly braces
+* asterisk
+[] square brackets
+() parentheses
+! exclamation mark
+\` backtick\
+\# hash mark
++ plus sign
 
 ## Github Flavored Markdown
 
