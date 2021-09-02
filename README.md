@@ -3,24 +3,24 @@
 ## Table of Content
 
 - [Introduction](#introduction)
-- [Header](#Header)
-- [List](#List)
+- [Header](#header)
+- [List](#list)
   - [Unordered](#unordered)
-  - [Ordered](#Ordered) 
-- [Images](#Image)
-- [Emphasis](#Emphasis)
-- [Blockqoutes](#Blockqoutes)
-- [Backslash-Escapes](#Backslash-Escapes)
+  - [Ordered](#ordered) 
+- [Images](#images)
+- [Emphasis](#emphasis)
+- [Blockqoutes](#blockqoutes)
+- [Backslash Escapes](#backslash--escapes)
 
 ### Github Flavored Markdowns
 
 - [Introduction](#introduction)
-- [Username@mention](#Username@mention)
-- [Fenced-Code-Blocks](#Fenced-Code-Blocks)
-- [Issue-References](#Issue-References)
-- [Task-Lists](#Task-List)
-- [Tables](#Tables)
-- [Emoji](#Emoji)
+- [Username@mention](#username@mention)
+- [Fenced Code Blocks](#fenced--code--locks)
+- [Issue References](#issue--references)
+- [Task Lists](#task--list)
+- [Tables](#tables)
+- [Emoji](#emoji)
 
 ### Introduction
 
@@ -99,9 +99,10 @@ would otherwise have special meaning in Markdown’s formatting syntax.
 Markdown provides backslash escapes for
 the following characters:
 
-\ backslash  |  _ underscore
-- minus sign (hyphen)  |  . dot
-{} curly braces  |  * asterisk
-[] square brackets  |  () parentheses
-! exclamation mark  |  ` backtick
-# hash mark  |  + plus sign
+-------------------------------------
+|[\ backslash]  |  [_ underscore] |
+|\- minus sign (hyphen)  |  . dot |
+|{} curly braces  |  * asterisk |
+|[] square brackets  |  () parentheses |
+|! exclamation mark  |  \` backtick\ |
+|\# hash mark  |  + plus sign |
