@@ -179,7 +179,7 @@ with a pipe ```Text | ```:
 
 To see a list of every image that is supported, check out
 
-<a href="https://github.com/ikatyang/emoji-cheat-sheet" alt="emoji-cheat-sheet">Emoji Cheat Sheet</a>  @ikatyang
+@ikatyang <a href="https://github.com/ikatyang/emoji-cheat-sheet" alt="emoji-cheat-sheet">Emoji Cheat Sheet</a>  
 
 ```Text
 GitHub supports emoji!
