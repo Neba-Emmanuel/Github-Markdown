@@ -1,4 +1,4 @@
-# Github-Markdown
+# Markdown
 
 ## Table of Content
 
