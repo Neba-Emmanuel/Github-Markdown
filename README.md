@@ -179,7 +179,7 @@ with a pipe ```Text | ```:
 
 To see a list of every image that is supported, check out
 
-@ikatyang <a href="https://github.com/ikatyang/emoji-cheat-sheet" alt="emoji-cheat-sheet">Emoji Cheat Sheet</a>  
+<a href="https://github.com/ikatyang/emoji-cheat-sheet" alt="emoji-cheat-sheet">Emoji Cheat Sheet</a>  
 
 ```Text
 GitHub supports emoji!
@@ -187,6 +187,5 @@ GitHub supports emoji!
 :rocket: :metal: :octocat:
 ```
 ![Screenshot from 2021-09-02 12-56-28](https://user-images.githubusercontent.com/37219226/131839465-d6910f4b-58a6-4609-9333-813198bc30ba.png)
-
 
 Please if you like this repository leave a :star: and also feel free correct or add content :wink:
