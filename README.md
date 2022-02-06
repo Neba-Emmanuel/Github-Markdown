@@ -162,8 +162,6 @@ defunkt/github-flavored-markdown#1
 ```
 ![Screenshot from 2021-09-02 12-35-10](https://user-images.githubusercontent.com/37219226/131839361-9bf01704-d249-4994-a3b5-441dbeb7f8a5.png)
 
-
-
 ### Tables
 
 You can create tables by assembling
