@@ -172,7 +172,6 @@ with a pipe ```Text | ```:
 
 ![Screenshot from 2021-09-02 12-57-32](https://user-images.githubusercontent.com/37219226/131839622-045065d0-464a-44af-b376-4b6fab361217.png)
 
-
 ### Emoji
 
 To see a list of every image that is supported, check out
